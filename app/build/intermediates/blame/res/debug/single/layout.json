@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/build/intermediates/res/merged/debug/layout/palette.xml",
+        "source": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/layout/palette.xml"
+    },
+    {
+        "merged": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/layout/activity_main.xml"
+    }
+]

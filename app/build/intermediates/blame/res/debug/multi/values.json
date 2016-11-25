@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 57,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 36,
+                    "endOffset": 145
+                },
+                "from": {
+                    "file": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 36,
+                        "endOffset": 48
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 150,
+                    "endColumn": 52,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 52,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 56,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 39,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 39,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 39,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 39,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 37,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 37,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endColumn": 41,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/home/misto/repos/appquest-android/PixelMaler-Vorlage/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 41,
+                        "endOffset": 203
+                    }
+                }
+            }
+        ]
+    }
+]
